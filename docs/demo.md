@@ -1,5 +1,7 @@
 # Titulo Principal
 
+Este repositorio es muy importante para aprender sobre la gestión de repositorios
+
 ## Subtitulo 1
 
 bla bla blad
