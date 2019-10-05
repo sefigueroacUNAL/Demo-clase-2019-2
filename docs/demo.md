@@ -1,4 +1,4 @@
-#Titulo Principal
+# Titulo Principal
 
 ## Subtitulo 1
 
@@ -14,11 +14,12 @@ blad blad blad
 
 ## Subtitulo 3
 
-[] Lista de chequeo 1
-[] Lista de chequeo 2
+[ ] Lista de chequeo 1
+
+[ ] Lista de chequeo 2
 
 ## Subtitulo 4
 
 Ecuación:
 
-$$ x^2 $$
+$$x^2$$
